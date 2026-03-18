@@ -263,6 +263,10 @@
   background: linear-gradient(145deg, #0f49ad 0%, #1546a0 58%, #ff97c8 140%);
 }
 
+.hero-card--primary .detail-kicker {
+  color: var(--color-yellow-300);
+}
+
 .hero-card--secondary {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.88), rgba(252, 245, 255, 0.8));
   border: 1px solid rgba(18, 58, 127, 0.08);
@@ -981,3 +985,4 @@
     align-items: flex-start;
   }
 }
+
