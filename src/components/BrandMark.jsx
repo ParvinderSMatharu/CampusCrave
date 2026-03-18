@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import logoMark from '../assets/logo-mark.svg';
+import logoMark from '../assets/campuscrave_logo.svg';
 
 function BrandMark({ compact = false, showTagline = false, link = true, className = '' }) {
   const classes = ['brand-mark', compact ? 'brand-mark--compact' : '', className]
