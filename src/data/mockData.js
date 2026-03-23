@@ -1,7 +1,7 @@
 export const restaurants = [
   {
-    id: 'blue-jay-burgers',
-    name: 'Blue Jay Burgers',
+    id: 'true-burgers',
+    name: 'True Burgers',
     category: 'Burgers',
     rating: 4.8,
     deliveryTime: '12-18 min',
@@ -49,8 +49,8 @@ export const restaurants = [
     ],
   },
   {
-    id: 'quad-slice-pizza',
-    name: 'Quad Slice Pizza',
+    id: 'brooklyn-slice',
+    name: 'Brooklyn Slice',
     category: 'Pizza',
     rating: 4.7,
     deliveryTime: '15-20 min',
@@ -147,8 +147,8 @@ export const restaurants = [
     ],
   },
   {
-    id: 'lab-brew-coffee-co',
-    name: 'Lab Brew Coffee Co.',
+    id: 'bits-&-bytes',
+    name: 'Bits & Bytes',
     category: 'Coffee',
     rating: 4.6,
     deliveryTime: '8-14 min',
@@ -196,15 +196,15 @@ export const restaurants = [
     ],
   },
   {
-    id: 'noodle-note-express',
-    name: 'Noodle Note Express',
+    id: 'revolution-noodle-and-sushi',
+    name: 'Revolution Noodle and Sushi',
     category: 'Asian',
     rating: 4.8,
     deliveryTime: '14-19 min',
     location: 'Innovation Center',
     featured: false,
     description: 'Wok-fired noodles, dumplings, and rice bowls built for fast campus delivery.',
-    image: 'https://images.unsplash.com/photo-1617622141573-1bb0b0353ecf?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=1200&q=80',
     tags: ['Hot Meals', 'Runner Favorite'],
     menu: [
       {
@@ -245,8 +245,8 @@ export const restaurants = [
     ],
   },
   {
-    id: 'sweet-syllabus-bakery',
-    name: 'Sweet Syllabus Bakery',
+    id: 'dutch-treats',
+    name: 'Dutch Treats',
     category: 'Desserts',
     rating: 4.9,
     deliveryTime: '9-15 min',

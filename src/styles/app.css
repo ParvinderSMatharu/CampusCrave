@@ -586,6 +586,14 @@
   grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr);
 }
 
+.page--about .page-hero h1 {
+  margin-bottom: 0.75rem;
+}
+
+.page--about .page-hero p {
+  margin-bottom: 0.75rem;
+}
+
 .info-panel {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(214, 232, 255, 0.72));
   border-radius: var(--radius-lg);
@@ -985,4 +993,5 @@
     align-items: flex-start;
   }
 }
+
 

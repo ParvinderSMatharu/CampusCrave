@@ -8,7 +8,7 @@ function Hero({ stats, featuredOrder }) {
         <div className="hero__content">
           <span className="eyebrow-pill">Campus food delivery, rethought</span>
           <BrandMark className="hero__brand" link={false} showTagline />
-          <h1>Skip the line. Order between classes. Eat where campus happens.</h1>
+          <h1>Skip the line. Order between classes. Eat where classes happen.</h1>
           <p className="hero__text">
             CampusCrave helps students order food from campus spots, get it dropped outside the classroom or at the dorm, and powers on-campus jobs through student delivery runners.
           </p>
@@ -63,6 +63,7 @@ function Hero({ stats, featuredOrder }) {
               <li>Order campus food without leaving the building</li>
               <li>Drop-offs built for classrooms, dorms, and study spots</li>
               <li>Every delivery supports student jobs on campus</li>
+              <li>Offers work study opportunities for students</li>
             </ul>
           </div>
         </div>

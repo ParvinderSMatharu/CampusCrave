@@ -26,9 +26,6 @@ function AboutPage() {
           <p>
             CampusCrave is built for college life: busy schedules, short breaks, long study nights, and the constant need for food that arrives where students already are.
           </p>
-          <p>
-            The mission is simple: make campus food more convenient, strengthen the on-campus community, and create flexible work opportunities for students who want to deliver.
-          </p>
           <div className="page-hero__actions">
             <Button to="/restaurants">Explore restaurants</Button>
             <Button to="/become-a-runner" variant="secondary">
@@ -46,7 +43,7 @@ function AboutPage() {
       <section className="section container">
         <SectionHeader
           eyebrow="Why it matters"
-          title="A product built around how students actually move through the day"
+          title="A service built around how students actually move through the day"
           description="Every part of the experience is shaped around speed, clarity, and community impact."
         />
         <div className="benefits-grid">
